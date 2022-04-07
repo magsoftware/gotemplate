@@ -1,2 +1,3 @@
 # gotemplate
-Template for a Go project
+
+Template for a sample (and rather small) Go project.
